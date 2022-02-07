@@ -2,15 +2,15 @@
 <div align="center">
   <a href="https://github.com/brunahirano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunahirano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunahirano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
  
 <div  align="center"> 
   <p align="center">
- 📌 Contato:
-</p>
+   📌 Contato:
+  </p>
   <a href = "mailto:brunaimbriani@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23DD0031.svg?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruna-hirano-imbriani-691929138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
@@ -105,7 +105,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiochagaz&hide=html&layout=compact&theme=default)](https://github.com/brunahirano/)"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunahirano&hide=html&layout=compact&theme=default)](https://github.com/brunahirano/)"
     />
   </a>
 </p>
